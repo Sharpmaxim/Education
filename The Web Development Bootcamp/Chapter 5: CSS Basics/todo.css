@@ -1,0 +1,12 @@
+body {
+    background: orange;    
+}
+
+li {
+    color: purple;
+    border: solid red;
+}
+
+#special {
+    color: white;
+}

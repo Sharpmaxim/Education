@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(140, 0, 100);
+    border: 10px purple dashed;
+}
+
+li {
+    color: rgb(17, 121, 34);
+}
+
+h4 {
+    color: steelblue;
+    background: rgb(140, 0, 100)
+}
+
+body {
+    background: pink
+}
