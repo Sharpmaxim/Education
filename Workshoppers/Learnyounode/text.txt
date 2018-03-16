@@ -1,0 +1,1 @@
+If you are writing\n something platform-independent,\n Environment.NewLine will do\n the job for you and pick the correct character(s).
